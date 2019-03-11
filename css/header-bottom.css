@@ -58,7 +58,7 @@ a{
   font-family: MONTSERRAT;
   src: url(fonts/MONTSERRAT.otf);
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1100px) {
   .nav{
   	display: none;
   }
